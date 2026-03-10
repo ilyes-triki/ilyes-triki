@@ -1,41 +1,36 @@
-
-
 # Hi, I'm Mohamed Ilyes Triki 👋
 
-💻 Software Engineering Student  
-🌍 Based in Monastir, Tunisia  
-🚀 Full-Stack Web Developer passionate about building real-world applications.
+💻 Software Engineering student from Tunisia passionate about **full-stack web development, dashboards, and IoT systems**.  
+I enjoy building scalable applications using modern JavaScript frameworks and exploring new technologies.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack
 
-- 🎓 Software Engineering student at Polytech Monastir  
-- 🌐 Full-stack developer (React, Angular, Node.js)  
-- ⚡ Interested in web applications, dashboards, and IoT systems  
-- 🧪 Also experienced with manual testing, API testing, and bug tracking  
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,c,cpp" />
+</p>
 
----
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+</p>
 
-## 🛠 Tech Stack
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Languages**  
-JavaScript • PHP • C • C++
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-**Frontend**  
-React • 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-          
-• HTML • CSS • Bootstrap
-
-**Backend**  
-Node.js • Express.js
-
-**Databases**  
-MongoDB • Firebase
-
-**Tools**  
-Git • GitHub • Postman • VS Code • Jira
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -48,31 +43,16 @@ React + Firebase dashboard to monitor and control IoT street lights in real time
 Admin dashboard with supplier management, CRUD operations, pagination, and filters.
 
 🔹 **MERN Coin Shop**  
-Full-stack application with authentication, protected routes, and dynamic pricing.
+Full-stack web application with authentication, protected routes, and dynamic pricing.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: trikimedilyess@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/mohmamed-ilyes-triki-930069201  
-
+📧 Email: **trikimedilyess@gmail.com**  
+💼 LinkedIn:  
+https://www.linkedin.com/in/mohmamed-ilyes-triki-930069201
 
 ---
 
 ⭐ Always learning and building new things.
-
-<!--
-**ilyes-triki/ilyes-triki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
