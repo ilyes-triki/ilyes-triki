@@ -54,7 +54,7 @@ Full-stack web application with authentication, protected routes, and dynamic pr
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyes-triki&show_icons=true&theme=tokyonight"/>
