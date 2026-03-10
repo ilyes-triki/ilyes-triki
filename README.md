@@ -42,9 +42,10 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### 🧪 Testing & QA
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postman,jira&perline=6" height="40"/>
-<img src="https://cdn.simpleicons.org/burpsuite/ff6633" height="40"/>
-<img src="https://cdn.simpleicons.org/wireshark/1a9fff" height="40"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40"/>
+<img src="https://cdn.simpleicons.org/wireshark/1A9FFF" height="40"/>
 </p>
 
 ---
