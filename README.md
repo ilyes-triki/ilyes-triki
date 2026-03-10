@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi, I'm Mohamed Ilyes Triki 👋
 
@@ -23,7 +23,9 @@
 JavaScript • PHP • C • C++
 
 **Frontend**  
-React • Angular • HTML • CSS • Bootstrap
+React • 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+• HTML • CSS • Bootstrap
 
 **Backend**  
 Node.js • Express.js
@@ -53,7 +55,7 @@ Full-stack application with authentication, protected routes, and dynamic pricin
 
 📧 Email: trikimedilyess@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/mohmamed-ilyes-triki-930069201  
-🐙 GitHub: https://github.com/ilyes-triki
+
 
 ---
 
