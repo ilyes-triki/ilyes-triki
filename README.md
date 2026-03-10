@@ -37,22 +37,51 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### 🛠️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&perline=6" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=6" height="40"/>
+</p>
+
+### 🧪 Testing & QA
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,jira&perline=6" height="40"/>
 <img src="https://cdn.simpleicons.org/burpsuite/ff6633" height="40"/>
+<img src="https://cdn.simpleicons.org/wireshark/1a9fff" height="40"/>
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-🚀 **Smart Street Lighting Platform**  
-React + Firebase dashboard to monitor and control IoT street lights in real time.
+### 🚀 Smart Street Lighting Platform
+**Tech:** ⚛️ React, 🔥 Firebase, 🌐 Web, 📡 ESP32 IoT  
+React dashboard to monitor and control IoT street lights in **real-time**, featuring:  
+- Live status updates of all street lamps  
+- Scheduling and automated dimming  
+- Data visualization with charts and statistics  
+- Responsive UI for mobile and desktop  
 
-🛒 **Angular E-commerce Admin Dashboard**  
-Admin dashboard with supplier management, CRUD operations, pagination, and filters.
+### 🛒 Angular E-commerce Admin Dashboard
+**Tech:** 🅰️ Angular, 💾 MySQL, 🖥️ Admin Panel  
+Comprehensive admin dashboard for e-commerce management:  
+- Supplier management and inventory tracking  
+- CRUD operations for products, categories, and orders  
+- Pagination, filters, and dynamic search  
+- Role-based access control for secure operations  
 
-🎮 **MERN Coin Shop**  
-Full-stack web application with authentication, protected routes, and dynamic pricing.
+### 🛡️ Web Security Practice Platform
+**Tech:** 🐘 PHP, 💾 MySQL, 🌐 HTML/CSS  
+A web platform to teach and practice web vulnerabilities:  
+- Multiple levels of exercises including SQL injection, XSS  
+- Live hints and feedback for learners  
+- User progress tracking and results dashboard  
+- Designed for educational purposes in cybersecurity  
+
+### ⚡ IoT Home Automation System
+**Tech:** 🌐 React, 📡 ESP32, 🔥 Firebase  
+Home automation platform to control lights, fans, and sensors remotely:  
+- Real-time device status updates  
+- Push notifications for unusual activity  
+- Dashboard analytics for energy consumption  
+- Mobile-friendly and responsive UI  
 
 ---
 
