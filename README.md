@@ -24,7 +24,8 @@ JavaScript • PHP • C • C++
 
 **Frontend**  
 React • 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+          
 • HTML • CSS • Bootstrap
 
 **Backend**  
