@@ -1,11 +1,18 @@
-# Hi, I'm Mohamed Ilyes Triki 👋
+<h1 align="center">Hi 👋, I'm Mohamed Ilyes Triki</h1>
 
-💻 Software Engineering student from Tunisia passionate about **full-stack web development, dashboards, and IoT systems**.  
-I enjoy building scalable applications using modern JavaScript frameworks and exploring new technologies.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Angular+%7C+Node.js;Building+Web+Apps+%26+IoT+Systems;Always+Learning+New+Technologies" />
+  </a>
+</p>
+
+<p align="center">
+Software Engineering student from Tunisia passionate about building modern web applications, dashboards, and IoT systems.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 <p>
@@ -34,25 +41,39 @@ I enjoy building scalable applications using modern JavaScript frameworks and ex
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-🔹 **Smart Street Lighting Platform**  
+🚀 **Smart Street Lighting Platform**  
 React + Firebase dashboard to monitor and control IoT street lights in real time.
 
-🔹 **Angular E-commerce Admin Dashboard**  
+🛒 **Angular E-commerce Admin Dashboard**  
 Admin dashboard with supplier management, CRUD operations, pagination, and filters.
 
-🔹 **MERN Coin Shop**  
+🎮 **MERN Coin Shop**  
 Full-stack web application with authentication, protected routes, and dynamic pricing.
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-📧 Email: **trikimedilyess@gmail.com**  
-💼 LinkedIn:  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ilyes-triki&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyes-triki&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** trikimedilyess@gmail.com  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/mohmamed-ilyes-triki-930069201
 
 ---
 
-⭐ Always learning and building new things.
+<p align="center">
+⭐ Always building, always learning.
+</p>
