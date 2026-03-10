@@ -57,8 +57,25 @@ Full-stack web application with authentication, protected routes, and dynamic pr
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyes-triki&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyes-triki&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ilyes-triki&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyes-triki&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ilyes-triki&color=blueviolet&style=flat-square"/>
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ilyes-triki&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyes-triki&theme=tokyo-night"/>
 </p>
 
 <p align="center">
