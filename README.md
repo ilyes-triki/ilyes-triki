@@ -16,7 +16,7 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,php,c,cpp,ts" />
 </p>
 
 ### Frontend
@@ -26,7 +26,7 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,springboot" />
 </p>
 
 ### Databases
@@ -36,7 +36,7 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,burpsuite,intellij" />
 </p>
 
 ---
