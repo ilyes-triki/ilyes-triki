@@ -12,31 +12,33 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ---
 
+
 # 🚀 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,php,c,cpp,ts" />
+### 📝 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,php,c,cpp,ts&perline=6" height="40"/>
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap&perline=6" height="40"/>
 </p>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,springboot" />
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,springboot&perline=6" height="40"/>
 </p>
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+### 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=6" height="40"/>
 </p>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,burpsuite,intellij" />
+### 🛠️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&perline=6" height="40"/>
+<img src="https://cdn.simpleicons.org/burpsuite/ff6633" height="40"/>
 </p>
 
 ---
