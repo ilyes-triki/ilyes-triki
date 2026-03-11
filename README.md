@@ -17,7 +17,7 @@ Software Engineering student from Tunisia passionate about building modern web a
 
 ### 📝 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,php,c,cpp,ts&perline=6" height="40"/>
+<img src="https://skillicons.dev/icons?i=js,php,c,cpp,ts,java&perline=6" height="40"/>
 </p>
 
 ### 🎨 Frontend
