@@ -26,8 +26,9 @@ Software Engineering student from Tunisia passionate about building modern web a
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,springboot&perline=6" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6" height="40"/>
 </p>
 
 ### 🗄️ Databases
