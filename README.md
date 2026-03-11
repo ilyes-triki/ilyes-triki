@@ -46,6 +46,8 @@ Software Engineering student from Tunisia passionate about building modern web a
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40"/>
 <img src="https://cdn.simpleicons.org/wireshark/1A9FFF" height="40"/>
+<img src="https://cdn.simpleicons.org/Cypress/1A9FFF" height="40"/>
+  
 </p>
 
 ---
