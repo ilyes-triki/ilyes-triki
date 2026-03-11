@@ -28,12 +28,12 @@ Software Engineering student from Tunisia passionate about building modern web a
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&perline=6" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6" height="40"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=6" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&perline=6" height="40"/>
 </p>
 
 ### 🛠️ Tools
